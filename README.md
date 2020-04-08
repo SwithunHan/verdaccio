@@ -38,6 +38,6 @@ Enjoy it.
 ## Remove
 
 ```
-$ docker-compose stop
-$ docker-compose rm
+$ docker stop <docker ID>
+$ docker rm <docker ID>
 ```
